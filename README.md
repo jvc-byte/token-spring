@@ -128,8 +128,7 @@ Built during Vuna Boot Camp 2024 by:
 
 Need help? Reach out:
 - Create an issue in this repository
-- Join our [Discord](https://discord.gg/tokenspring)
-- Contact support@tokenspring.dev
+- Contact [Support](mailto:jvc8463@gmail.com)
 
 ---
 
